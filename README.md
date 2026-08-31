@@ -1,58 +1,48 @@
 <div align="center">
 
-  <!-- Animated Header Typing Banner -->
-  <a href="https://github.com/dexorto">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF2E4C&center=true&vCenter=true&random=false&width=650&height=65&lines=Hi+there%2C+I'm+Dexorto+%E2%9A%A1;Systems+%26+Automation+Engineer;Building+Next-Gen+Developer+Tools;Linux+%7C+Python+%7C+CLI+%7C+Automation" alt="Typing SVG" />
+  <!-- ==================== 1. ANIME ANIMATION HEADER ==================== -->
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100%" height="280" style="object-fit: cover; border-radius: 12px;" alt="Cyber Anime Banner" />
+
+  <br/><br/>
+
+  <!-- Animated Dynamic Typing Banner -->
+  <a href="https://github.com/Dexorto1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF2E4C&center=true&vCenter=true&random=false&width=650&height=55&lines=%E2%9A%A1+Hi+there%2C+I'm+Dexorto;Full-Stack+Developer+%26+Automation+Engineer;Building+Bespoke+Developer+Tools;Linux+%7C+Python+%7C+CLI+%7C+Automation" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/dexorto">
-      <img src="https://komarev.com/ghpvc/?username=dexorto&color=ff2e4c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://github.com/Dexorto1">
+      <img src="https://komarev.com/ghpvc/?username=Dexorto1&color=ff2e4c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-ff2e4c?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/OS-Linux_%2F_Hyprland_%2F_LXQt-1793D1?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/Theme-Ens%C5%8D_Crimson-990000?style=flat-square" alt="Theme" />
+    <img src="https://img.shields.io/badge/Status-Crafting_Code-ff2e4c?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/OS-Linux_%2F_Hyprland_%2F_KDE-1793D1?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+    <img src="https://img.shields.io/badge/Vibe-Cyber_Anime-990000?style=flat-square" alt="Vibe" />
   </p>
-
-  <p align="center">
-    <i>"Crafting high-performance CLI tools, intelligent automation engines, and bespoke Linux workflows."</i>
-  </p>
-
-  ---
-
-  <!-- Dynamic Quote & Matrix Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,ff0033,990022,33000f&height=120&section=header&text=WELCOME%20TO%20MY%20DIGITAL%20FORGE&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
 
 </div>
 
 <br/>
 
-## ⚡ What I'm Building & Architecting
+<!-- ==================== 2. INTRO & PHILOSOPHY ==================== -->
+## 🌟 About Me & Philosophy
 
 ```text
-┌─ 🚀 FEATURED HIGHLIGHTS ─────────────────────────────────────────────────────────────┐
-│ ⭕ dex-bot       Intelligent Antigravity-styled terminal AI, B2B scraper & OS suite │
-│ 🛠️ clientforge   B2B Local Lead Scraper with automated 3-sec technical audits & PDF  │
-│ 🛡️ Bit-Vault     Encrypted multi-layer storage vault & security engine               │
-│ 🐧 Hyprland/KDE  Custom Linux dotfiles, Plasma 6 widgets, and macOS-style dock py   │
-│ 🧩 solver-tools  High-performance automated browser challenge & token engines        │
+┌─ 🚀 ABOUT DEXORTO ───────────────────────────────────────────────────────────────────┐
+│ • 💻 Passionate Systems & Automation Developer crafting high-impact tools            │
+│ • ⚡ Deep focus on Terminal AI, Web Scraping Engines, and Custom Linux Workflows      │
+│ • 🐧 Linux Enthusiast: Hyprland, KDE Plasma, LXQt custom ricing & script engineering │
+│ • 🎯 Turning complex engineering tasks into 1-line automated CLI workflows           │
+│ • 📍 Currently building ClientForge & Dex-Bot ecosystem                              │
 └──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
-
-## 🛠️ Tech Stack & Arsenal
+### 🛠️ Arsenal & Technologies
 
 <div align="center">
-
-  <!-- Language Icons -->
   <p>
-    <img src="https://skillicons.dev/icons?i=python,bash,rust,js,ts,html,css,c,cpp,linux,git,docker,githubactions,fastapi,sqlite,postgres,postman,vscode,neovim&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,bash,rust,js,ts,html,css,c,cpp,linux,git,docker,fastapi,sqlite,postgres,postman,vscode,neovim&perline=9" alt="Tech Stack" />
   </p>
 
-  <br/>
-
-  <!-- Category Badges -->
   <table>
     <tr>
       <td align="center" width="25%"><b>💻 Languages</b></td>
@@ -65,7 +55,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>⚙️ Systems & Automation</b></td>
+      <td align="center"><b>⚙️ Systems & Linux</b></td>
       <td>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
@@ -75,48 +65,21 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>🌐 Web & APIs</b></td>
+      <td align="center"><b>🌐 Web & AI</b></td>
       <td>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenRouter_AI-6A0DAD?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/REST_APIs-FF5722?style=flat-square&logo=postman&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web_Scraping-FF2E4C?style=flat-square&logo=codeforces&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web_Automation-FF2E4C?style=flat-square&logo=codeforces&logoColor=white"/>
       </td>
     </tr>
   </table>
-
 </div>
 
 <br/>
 
-## 📊 Live GitHub Analytics
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=dexorto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&icon_color=FF2E4C&text_color=E6EDF3&rank_icon=github" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <!-- Streak Stats Card -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dexorto&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E4C&fire=FF2E4C&currStreakLabel=FF2E4C" alt="Streak Stats" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- Top Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexorto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&text_color=E6EDF3" alt="Top Languages" width="80%" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br/>
-
-## 🔥 Featured Open-Source Projects
+<!-- ==================== 3. FEATURED PROJECTS ==================== -->
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -126,9 +89,9 @@
       <h3 align="center">⭕ Dex-Bot CLI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Theme-All--Red_Ensō-FF2E4C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Theme-Ensō_Crimson-FF2E4C?style=flat-square"/>
       </p>
-      <p>Terminal AI search, code generator, B2B lead prospector, GitHub explorer, and Lubuntu OS utility designed with an Antigravity USB Pendrive theme.</p>
+      <p>Intelligent terminal AI search, code generator, B2B lead prospector, GitHub explorer, and Lubuntu OS utility designed with an Antigravity USB Pendrive aesthetic.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛠️ ClientForge</h3>
@@ -136,7 +99,7 @@
         <img src="https://img.shields.io/badge/FastAPI-Framework-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Audit-Engine-FF2E4C?style=flat-square"/>
       </p>
-      <p>Autonomous B2B agency client acquisition engine. Discovers local business leads, performs instant 3-second technical & SEO audits, and generates closing PDF proposals.</p>
+      <p>Autonomous B2B client acquisition engine. Discovers local business leads, performs instant 3-second technical & SEO audits, and generates high-converting PDF proposals.</p>
     </td>
   </tr>
   <tr>
@@ -146,7 +109,7 @@
         <img src="https://img.shields.io/badge/Security-AES--256-4CAF50?style=flat-square"/>
         <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square"/>
       </p>
-      <p>High-security encrypted personal vault and data storage interface designed for rapid credential and secret management.</p>
+      <p>High-security encrypted personal vault and data storage interface designed for rapid credential, file, and secret management.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🐧 Ubuntu Hyprland / KDE Dotfiles</h3>
@@ -163,11 +126,35 @@
 
 <br/>
 
+<!-- ==================== 4. LIVE GITHUB METRICS ==================== -->
+## 📊 Live GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Dexorto1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&icon_color=FF2E4C&text_color=E6EDF3&rank_icon=github" alt="GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexorto1&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E4C&fire=FF2E4C&currStreakLabel=FF2E4C" alt="Streak Stats" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexorto1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&text_color=E6EDF3" alt="Top Languages" width="80%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- ==================== 5. CONNECT BAR ==================== -->
 ## 🌐 Connect & Network
 
 <div align="center">
 
-  <a href="https://github.com/dexorto">
+  <a href="https://github.com/Dexorto1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://discord.com">
