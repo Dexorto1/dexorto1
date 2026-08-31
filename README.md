@@ -1,22 +1,26 @@
 <div align="center">
 
-  <!-- ==================== 1. ANIME ANIMATION HEADER ==================== -->
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100%" height="280" style="object-fit: cover; border-radius: 12px;" alt="Cyber Anime Banner" />
+  <!-- ==================== 1. ANIME ANIMATION HEADER (DENJI & SASUKE) ==================== -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3NjA4OGE3MWE3ODg5YTMzZjU1NWYzMjI3M2JhOTc3Nzg3ZjM1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppEiOI/giphy.gif" width="100%" height="280" style="object-fit: cover; border-radius: 14px; box-shadow: 0 8px 32px rgba(255, 46, 76, 0.3);" alt="Sasuke & Denji Cyber Anime Animation" />
 
   <br/><br/>
 
-  <!-- Animated Dynamic Typing Banner -->
+  <!-- Dynamic Typing Banner -->
   <a href="https://github.com/Dexorto1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF2E4C&center=true&vCenter=true&random=false&width=650&height=55&lines=%E2%9A%A1+Hi+there%2C+I'm+Dexorto;Full-Stack+Developer+%26+Automation+Engineer;Building+Bespoke+Developer+Tools;Linux+%7C+Python+%7C+CLI+%7C+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF2E4C&center=true&vCenter=true&random=false&width=650&height=55&lines=%E2%9A%A1+Hi+there%2C+I'm+Dexorto;Full-Stack+Developer+%26+Automation+Engineer;Python+%7C+Java+%7C+Linux+%7C+CLI+Systems;Building+Bespoke+Developer+Tools" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://github.com/Dexorto1">
       <img src="https://komarev.com/ghpvc/?username=Dexorto1&color=ff2e4c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Crafting_Code-ff2e4c?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Main_Language-Python_%7C_Java-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python and Java" />
     <img src="https://img.shields.io/badge/OS-Linux_%2F_Hyprland_%2F_KDE-1793D1?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/Vibe-Cyber_Anime-990000?style=flat-square" alt="Vibe" />
+    <img src="https://img.shields.io/badge/Aesthetic-Sharingan_Crimson-990000?style=flat-square" alt="Aesthetic" />
+  </p>
+
+  <p align="center">
+    <i>"Crafting high-performance CLI tools, intelligent automation engines, and bespoke Linux workflows."</i>
   </p>
 
 </div>
@@ -28,7 +32,7 @@
 
 ```text
 ┌─ 🚀 ABOUT DEXORTO ───────────────────────────────────────────────────────────────────┐
-│ • 💻 Passionate Systems & Automation Developer crafting high-impact tools            │
+│ • 💻 Full-Stack & Automation Developer specializing in Python & Java systems         │
 │ • ⚡ Deep focus on Terminal AI, Web Scraping Engines, and Custom Linux Workflows      │
 │ • 🐧 Linux Enthusiast: Hyprland, KDE Plasma, LXQt custom ricing & script engineering │
 │ • 🎯 Turning complex engineering tasks into 1-line automated CLI workflows           │
@@ -36,21 +40,25 @@
 └──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 🛠️ Arsenal & Technologies
+### 🛠️ Languages & Arsenal
 
 <div align="center">
+
+  <!-- Skill Icons including Python and Java prominently -->
   <p>
-    <img src="https://skillicons.dev/icons?i=python,bash,rust,js,ts,html,css,c,cpp,linux,git,docker,fastapi,sqlite,postgres,postman,vscode,neovim&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,java,bash,rust,js,ts,html,css,c,cpp,linux,git,docker,fastapi,sqlite,postgres,postman,vscode,neovim&perline=10" alt="Tech Stack" />
   </p>
+
+  <br/>
 
   <table>
     <tr>
-      <td align="center" width="25%"><b>💻 Languages</b></td>
+      <td align="center" width="25%"><b>💻 Core Languages</b></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Bash_%2F_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </td>
     </tr>
@@ -74,6 +82,7 @@
       </td>
     </tr>
   </table>
+
 </div>
 
 <br/>
@@ -126,25 +135,30 @@
 
 <br/>
 
-<!-- ==================== 4. LIVE GITHUB METRICS ==================== -->
-## 📊 Live GitHub Analytics
+<!-- ==================== 4. LIVE GITHUB METRICS & LANGUAGES ==================== -->
+## 📊 Live GitHub Analytics & Languages
 
 <div align="center">
+
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dexorto1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&icon_color=FF2E4C&text_color=E6EDF3&rank_icon=github" alt="GitHub Stats" width="100%" />
+        <!-- GitHub Stats Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Dexorto1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&icon_color=FF2E4C&text_color=E6EDF3&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center" width="50%">
+        <!-- Streak Stats Card -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexorto1&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E4C&fire=FF2E4C&currStreakLabel=FF2E4C" alt="Streak Stats" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexorto1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&text_color=E6EDF3" alt="Top Languages" width="80%" />
+        <!-- Top Languages Card with Python and Java priority -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexorto1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&text_color=E6EDF3&langs_count=6" alt="Top Languages" width="80%" />
       </td>
     </tr>
   </table>
+
 </div>
 
 <br/>
