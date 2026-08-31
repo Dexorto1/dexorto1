@@ -9,7 +9,7 @@
 
   <!-- Dynamic Typing Banner -->
   <a href="https://github.com/Dexorto1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF2E4C&center=true&vCenter=true&random=false&width=650&height=55&lines=%E2%9A%A1+Hi+there%2C+I'm+Dexorto;Full-Stack+Developer+%26+Automation+Engineer;Python+%7C+Java+%7C+Linux+%7C+CLI+Systems;Building+Bespoke+Developer+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF2E4C&center=true&vCenter=true&random=false&width=650&height=55&lines=%E2%9A%A1+Hi+there%2C+I'm+Dexorto;Python+Developer+%26+Automation+Engineer;Exploring+React+19+%7C+C%2B%2B+%7C+C+%7C+JavaScript;Building+Bespoke+Developer+Tools" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -22,7 +22,7 @@
     <a href="https://github.com/Dexorto1">
       <img src="https://komarev.com/ghpvc/?username=Dexorto1&color=ff2e4c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Main_Languages-Python_%7C_Java-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python and Java" />
+    <img src="https://img.shields.io/badge/Primary_Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/OS-Linux_%2F_Hyprland_%2F_KDE-1793D1?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
     <img src="https://img.shields.io/badge/Theme-Ens%C5%8D_Crimson-990000?style=flat-square" alt="Theme" />
   </p>
@@ -40,43 +40,47 @@
 
 ```text
 ┌─ 🚀 ABOUT DEXORTO ───────────────────────────────────────────────────────────────────┐
-│ • 💻 Full-Stack & Automation Developer specializing in Python & Java systems         │
+│ • 💻 Automation & Systems Developer with primary expertise in Python                 │
 │ • 🌐 Live Portfolio: https://dexorto1.github.io/dexorto/                             │
+│ • 🎯 Interests: JavaScript, C++, C, and React 19 web engineering                     │
 │ • ⚡ Deep focus on Terminal AI, Web Scraping Engines, and Custom Linux Workflows      │
 │ • 🐧 Linux Enthusiast: Hyprland, KDE Plasma, LXQt custom ricing & script engineering │
-│ • 🎯 Turning complex engineering tasks into 1-line automated CLI workflows           │
 │ • 📍 Currently building ClientForge & Dex-Bot ecosystem                              │
 └──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 🛠️ Languages & Arsenal
+### 🛠️ Core Stack & Interests
 
 <div align="center">
 
   <p>
-    <img src="https://skillicons.dev/icons?i=python,java,bash,rust,js,ts,html,css,c,cpp,linux,git,docker,fastapi,sqlite,postgres,postman,vscode,neovim&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,react,cpp,c,linux,bash,git,docker,fastapi,sqlite,postgres,postman,vscode,neovim&perline=9" alt="Tech Stack" />
   </p>
 
   <br/>
 
   <table>
     <tr>
-      <td align="center" width="25%"><b>💻 Core Languages</b></td>
+      <td align="center" width="25%"><b>🐍 Primary Language</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bash_%2F_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🎯 Interests & Exploring</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
       </td>
     </tr>
     <tr>
       <td align="center"><b>⚙️ Systems & Linux</b></td>
       <td>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bash_%2F_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hyprland-00A2C7?style=flat-square&logo=hyprland&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </td>
     </tr>
@@ -85,7 +89,6 @@
       <td>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenRouter_AI-6A0DAD?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_APIs-FF5722?style=flat-square&logo=postman&logoColor=white"/>
         <img src="https://img.shields.io/badge/Web_Automation-FF2E4C?style=flat-square&logo=codeforces&logoColor=white"/>
       </td>
     </tr>
