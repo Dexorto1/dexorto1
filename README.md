@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- ==================== 1. CUSTOM WALLPAPER HEADER ==================== -->
-  <img src="./assets/banner.jpg" width="100%" height="340" style="object-fit: cover; border-radius: 14px; box-shadow: 0 10px 30px rgba(255, 46, 76, 0.35);" alt="Dexorto Profile Header" />
+  <a href="https://dexorto1.github.io/dexorto/">
+    <img src="./assets/banner.jpg" width="100%" height="340" style="object-fit: cover; border-radius: 14px; box-shadow: 0 10px 30px rgba(255, 46, 76, 0.35);" alt="Dexorto Profile Header" />
+  </a>
 
   <br/><br/>
 
@@ -11,10 +13,16 @@
   </a>
 
   <p align="center">
+    <a href="https://dexorto1.github.io/dexorto/">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-dexorto1.github.io%2Fdexorto-FF2E4C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
+  </p>
+
+  <p align="center">
     <a href="https://github.com/Dexorto1">
       <img src="https://komarev.com/ghpvc/?username=Dexorto1&color=ff2e4c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Main_Language-Python_%7C_Java-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python and Java" />
+    <img src="https://img.shields.io/badge/Main_Languages-Python_%7C_Java-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python and Java" />
     <img src="https://img.shields.io/badge/OS-Linux_%2F_Hyprland_%2F_KDE-1793D1?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
     <img src="https://img.shields.io/badge/Theme-Ens%C5%8D_Crimson-990000?style=flat-square" alt="Theme" />
   </p>
@@ -33,6 +41,7 @@
 ```text
 ┌─ 🚀 ABOUT DEXORTO ───────────────────────────────────────────────────────────────────┐
 │ • 💻 Full-Stack & Automation Developer specializing in Python & Java systems         │
+│ • 🌐 Live Portfolio: https://dexorto1.github.io/dexorto/                             │
 │ • ⚡ Deep focus on Terminal AI, Web Scraping Engines, and Custom Linux Workflows      │
 │ • 🐧 Linux Enthusiast: Hyprland, KDE Plasma, LXQt custom ricing & script engineering │
 │ • 🎯 Turning complex engineering tasks into 1-line automated CLI workflows           │
@@ -142,21 +151,34 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Dexorto1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&icon_color=FF2E4C&text_color=E6EDF3&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+        <!-- Active Live GitHub Stats Card -->
+        <a href="https://github.com/Dexorto1">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dexorto1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&icon_color=FF2E4C&text_color=E6EDF3&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+        </a>
       </td>
       <td align="center" width="50%">
-        <!-- Streak Stats Card -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexorto1&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E4C&fire=FF2E4C&currStreakLabel=FF2E4C" alt="Streak Stats" width="100%" />
+        <!-- Active Streak Stats Card -->
+        <a href="https://github.com/Dexorto1">
+          <img src="https://streak-stats.demolab.com/?user=Dexorto1&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E4C&fire=FF2E4C&currStreakLabel=FF2E4C" alt="Streak Stats" width="100%" />
+        </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <!-- Top Languages Card with Python and Java priority -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexorto1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&text_color=E6EDF3&langs_count=6" alt="Top Languages" width="80%" />
+        <!-- Live Languages Breakdown Card -->
+        <a href="https://github.com/Dexorto1">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dexorto1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&text_color=E6EDF3&langs_count=6" alt="Top Languages" width="80%" />
+        </a>
       </td>
     </tr>
   </table>
+
+  <!-- Contribution Heatmap Graph -->
+  <p align="center">
+    <a href="https://github.com/Dexorto1">
+      <img src="https://ghchart.rshah.org/FF2E4C/Dexorto1" alt="Dexorto1 Contribution Graph" width="95%" />
+    </a>
+  </p>
 
 </div>
 
@@ -167,6 +189,9 @@
 
 <div align="center">
 
+  <a href="https://dexorto1.github.io/dexorto/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-FF2E4C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/Dexorto1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
