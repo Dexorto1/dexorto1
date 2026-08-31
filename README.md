@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- ==================== 1. ANIME ANIMATION HEADER (DENJI & SASUKE) ==================== -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3NjA4OGE3MWE3ODg5YTMzZjU1NWYzMjI3M2JhOTc3Nzg3ZjM1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppEiOI/giphy.gif" width="100%" height="280" style="object-fit: cover; border-radius: 14px; box-shadow: 0 8px 32px rgba(255, 46, 76, 0.3);" alt="Sasuke & Denji Cyber Anime Animation" />
+  <!-- ==================== 1. CUSTOM WALLPAPER HEADER ==================== -->
+  <img src="./assets/banner.jpg" width="100%" height="340" style="object-fit: cover; border-radius: 14px; box-shadow: 0 10px 30px rgba(255, 46, 76, 0.35);" alt="Dexorto Profile Header" />
 
   <br/><br/>
 
@@ -16,7 +16,7 @@
     </a>
     <img src="https://img.shields.io/badge/Main_Language-Python_%7C_Java-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python and Java" />
     <img src="https://img.shields.io/badge/OS-Linux_%2F_Hyprland_%2F_KDE-1793D1?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/Aesthetic-Sharingan_Crimson-990000?style=flat-square" alt="Aesthetic" />
+    <img src="https://img.shields.io/badge/Theme-Ens%C5%8D_Crimson-990000?style=flat-square" alt="Theme" />
   </p>
 
   <p align="center">
@@ -44,7 +44,6 @@
 
 <div align="center">
 
-  <!-- Skill Icons including Python and Java prominently -->
   <p>
     <img src="https://skillicons.dev/icons?i=python,java,bash,rust,js,ts,html,css,c,cpp,linux,git,docker,fastapi,sqlite,postgres,postman,vscode,neovim&perline=10" alt="Tech Stack" />
   </p>
