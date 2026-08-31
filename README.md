@@ -2,29 +2,29 @@
 
   <!-- ==================== 1. CUSTOM WALLPAPER HEADER ==================== -->
   <a href="https://dexorto1.github.io/dexorto/">
-    <img src="./assets/banner.jpg" width="100%" height="340" style="object-fit: cover; border-radius: 14px; box-shadow: 0 10px 30px rgba(255, 46, 76, 0.35);" alt="Dexorto Profile Header" />
+    <img src="./assets/banner.jpg" width="100%" height="340" style="object-fit: cover; border-radius: 14px; box-shadow: 0 10px 30px rgba(0, 230, 118, 0.4);" alt="Dexorto Profile Header" />
   </a>
 
   <br/><br/>
 
-  <!-- Dynamic Typing Banner -->
+  <!-- Dynamic Typing Banner (Neon Green) -->
   <a href="https://github.com/Dexorto1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF2E4C&center=true&vCenter=true&random=false&width=650&height=55&lines=%E2%9A%A1+Hi+there%2C+I'm+Dexorto;Python+Developer+%26+Automation+Engineer;Exploring+React+19+%7C+C%2B%2B+%7C+C+%7C+JavaScript;Building+Bespoke+Developer+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=650&height=55&lines=%E2%9A%A1+Hi+there%2C+I'm+Dexorto;Python+Developer+%26+Automation+Engineer;Exploring+React+19+%7C+C%2B%2B+%7C+C+%7C+JavaScript;Building+Bespoke+Developer+Tools" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://dexorto1.github.io/dexorto/">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-dexorto1.github.io%2Fdexorto-FF2E4C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Portfolio-dexorto1.github.io%2Fdexorto-00E676?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio" />
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/Dexorto1">
-      <img src="https://komarev.com/ghpvc/?username=Dexorto1&color=ff2e4c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=Dexorto1&color=00E676&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/Primary_Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/OS-Linux_%2F_Hyprland_%2F_KDE-1793D1?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/Theme-Ens%C5%8D_Crimson-990000?style=flat-square" alt="Theme" />
+    <img src="https://img.shields.io/badge/Theme-Cyber_Emerald-00E676?style=flat-square&logoColor=black" alt="Theme" />
   </p>
 
   <p align="center">
@@ -89,7 +89,7 @@
       <td>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenRouter_AI-6A0DAD?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web_Automation-FF2E4C?style=flat-square&logo=codeforces&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web_Automation-00E676?style=flat-square&logo=codeforces&logoColor=black"/>
       </td>
     </tr>
   </table>
@@ -109,7 +109,7 @@
       <h3 align="center">⭕ Dex-Bot CLI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Theme-Ensō_Crimson-FF2E4C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Theme-Cyber_Emerald-00E676?style=flat-square&logoColor=black"/>
       </p>
       <p>Intelligent terminal AI search, code generator, B2B lead prospector, GitHub explorer, and Lubuntu OS utility designed with an Antigravity USB Pendrive aesthetic.</p>
     </td>
@@ -117,7 +117,7 @@
       <h3 align="center">🛠️ ClientForge</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-Framework-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Audit-Engine-FF2E4C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Audit-Engine-00E676?style=flat-square&logoColor=black"/>
       </p>
       <p>Autonomous B2B client acquisition engine. Discovers local business leads, performs instant 3-second technical & SEO audits, and generates high-converting PDF proposals.</p>
     </td>
@@ -154,15 +154,15 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <!-- Active Live GitHub Stats Card -->
+        <!-- Active Live GitHub Stats Card (Emerald Green) -->
         <a href="https://github.com/Dexorto1">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dexorto1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&icon_color=FF2E4C&text_color=E6EDF3&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dexorto1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=E6EDF3&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
         </a>
       </td>
       <td align="center" width="50%">
-        <!-- Active Streak Stats Card -->
+        <!-- Active Streak Stats Card (Emerald Green) -->
         <a href="https://github.com/Dexorto1">
-          <img src="https://streak-stats.demolab.com/?user=Dexorto1&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E4C&fire=FF2E4C&currStreakLabel=FF2E4C" alt="Streak Stats" width="100%" />
+          <img src="https://streak-stats.demolab.com/?user=Dexorto1&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Streak Stats" width="100%" />
         </a>
       </td>
     </tr>
@@ -170,16 +170,16 @@
       <td colspan="2" align="center">
         <!-- Live Languages Breakdown Card -->
         <a href="https://github.com/Dexorto1">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dexorto1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E4C&text_color=E6EDF3&langs_count=6" alt="Top Languages" width="80%" />
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dexorto1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=E6EDF3&langs_count=6" alt="Top Languages" width="80%" />
         </a>
       </td>
     </tr>
   </table>
 
-  <!-- Contribution Heatmap Graph -->
+  <!-- Contribution Heatmap Graph (Green) -->
   <p align="center">
     <a href="https://github.com/Dexorto1">
-      <img src="https://ghchart.rshah.org/FF2E4C/Dexorto1" alt="Dexorto1 Contribution Graph" width="95%" />
+      <img src="https://ghchart.rshah.org/00FF66/Dexorto1" alt="Dexorto1 Contribution Graph" width="95%" />
     </a>
   </p>
 
@@ -193,7 +193,7 @@
 <div align="center">
 
   <a href="https://dexorto1.github.io/dexorto/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-FF2E4C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-00E676?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://github.com/Dexorto1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -207,7 +207,7 @@
 
   <br/><br/>
 
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,33000f,990022,ff0033&height=100&section=footer" width="100%" />
+  <!-- Animated Emerald Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,003311,009933,00ff66&height=100&section=footer" width="100%" />
 
 </div>
